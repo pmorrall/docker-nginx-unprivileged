@@ -1,4 +1,4 @@
-FROM debian:buster-slim
+FROM alpine:3.10
 
 LABEL maintainer="NGINX Docker Maintainers <docker-maint@nginx.com>"
 
